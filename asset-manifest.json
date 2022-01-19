@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/youth-india-apiapp/static/css/main.e3286ff3.css",
+    "main.css": "/youth-india-apiapp/static/css/main.7d6c2a0e.css",
     "main.js": "/youth-india-apiapp/static/js/main.7547e079.js",
     "index.html": "/youth-india-apiapp/index.html",
-    "main.e3286ff3.css.map": "/youth-india-apiapp/static/css/main.e3286ff3.css.map",
+    "main.7d6c2a0e.css.map": "/youth-india-apiapp/static/css/main.7d6c2a0e.css.map",
     "main.7547e079.js.map": "/youth-india-apiapp/static/js/main.7547e079.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3286ff3.css",
+    "static/css/main.7d6c2a0e.css",
     "static/js/main.7547e079.js"
   ]
 }
